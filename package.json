@@ -1,6 +1,6 @@
 {
   "name": "@scola/rest-server",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "REST Server",
   "repository": "github:scola84/rest-server",
   "author": "M.C. van den Boogaart <scola@kvdb.name>",
